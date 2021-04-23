@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/res/values-xlarge-land/values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "63",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

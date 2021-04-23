@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/e2c768ad2df657e1f99e6f08261b2f29/support-v4-21.0.2/AndroidManifest.xml:14:4-17:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:4:5-52
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:12:5-93
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:12:22-90
+uses-permission#android.permission.READ_LOGS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_SMS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_SOCIAL_STREAM
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:17:22-74
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:18:22-74
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:19:22-71
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:21:22-72
+supports-screens
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:23:5-29:40
+	android:largeScreens
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:25:9-36
+	android:smallScreens
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:28:9-36
+	android:normalScreens
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:26:9-37
+	android:xlargeScreens
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:29:9-37
+	android:resizeable
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:27:9-34
+	android:anyDensity
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:24:9-34
+application
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:31:5-46:19
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/e2c768ad2df657e1f99e6f08261b2f29/support-v4-21.0.2/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/e2c768ad2df657e1f99e6f08261b2f29/support-v4-21.0.2/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:33:9-36
+	android:theme
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:32:9-50
+activity#com.jensdriller.contentproviderhelper.ui.activity.MainActivity
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:37:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:41:27-74
+activity#com.jensdriller.contentproviderhelper.ui.activity.ResultActivity
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:44:9-64
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:44:19-61
+activity#com.jensdriller.contentproviderhelper.ui.activity.PreferenceActivity
+ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:45:9-68
+	android:name
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:45:19-65
+uses-sdk
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/e2c768ad2df657e1f99e6f08261b2f29/support-v4-21.0.2/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] /home/daniele/.android/build-cache/caches/transforms-2/files-2.1/e2c768ad2df657e1f99e6f08261b2f29/support-v4-21.0.2/AndroidManifest.xml:15:5-42
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml

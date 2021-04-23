@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.k3b.android.contentproviderhelper"
+4    android:versionCode="5"
+5    android:versionName="1.3.1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="8"
+8-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="21" />
+9-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml
+10
+11    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+12    <uses-permission android:name="android.permission.READ_CALENDAR" />
+12-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:8:5-72
+12-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:8:22-69
+13    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+13-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:9:5-72
+13-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:9:22-69
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:10:5-72
+14-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:10:22-69
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:11:5-80
+15-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:11:22-77
+16    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS" />
+16-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:12:5-93
+16-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:12:22-90
+17    <uses-permission android:name="android.permission.READ_LOGS" />
+17-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:13:5-68
+17-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:13:22-65
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:14:5-75
+18-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:14:22-72
+19    <uses-permission android:name="android.permission.READ_PROFILE" />
+19-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:15:5-71
+19-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:15:22-68
+20    <uses-permission android:name="android.permission.READ_SMS" />
+20-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:16:5-67
+20-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:16:22-64
+21    <uses-permission android:name="android.permission.READ_SOCIAL_STREAM" />
+21-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:17:5-77
+21-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:17:22-74
+22    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+22-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:18:5-77
+22-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:18:22-74
+23    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+23-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:19:5-74
+23-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:19:22-71
+24    <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+24-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:20:5-79
+24-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:20:22-76
+25    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+25-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:21:5-75
+25-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:21:22-72
+26
+27    <supports-screens
+27-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:23:5-29:40
+28        android:anyDensity="true"
+28-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:24:9-34
+29        android:largeScreens="true"
+29-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:25:9-36
+30        android:normalScreens="true"
+30-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:26:9-37
+31        android:resizeable="true"
+31-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:27:9-34
+32        android:smallScreens="true"
+32-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:28:9-36
+33        android:xlargeScreens="true" />
+33-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:29:9-37
+34
+35    <application
+35-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:31:5-46:19
+36        android:name="com.jensdriller.contentproviderhelper.app.ContentProviderHelper"
+36-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:32:9-50
+37        android:allowBackup="false"
+37-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:33:9-36
+38        android:debuggable="true"
+39        android:icon="@drawable/ic_launcher"
+39-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:34:9-45
+40        android:label="@string/app_name"
+40-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:35:9-41
+41        android:testOnly="true"
+42        android:theme="@style/AppTheme" > <!-- Theme.Sherlock.Light.DarkActionBar -->
+42-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:36:9-40
+43        <activity android:name="com.jensdriller.contentproviderhelper.ui.activity.MainActivity" >
+43-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:37:9-43:20
+43-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:37:19-59
+44            <intent-filter>
+44-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:38:13-42:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:39:17-69
+45-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:39:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:41:17-77
+47-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:41:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.jensdriller.contentproviderhelper.ui.activity.ResultActivity" />
+50-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:44:9-64
+50-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:44:19-61
+51        <activity android:name="com.jensdriller.contentproviderhelper.ui.activity.PreferenceActivity" />
+51-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:45:9-68
+51-->/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/src/main/AndroidManifest.xml:45:19-65
+52    </application>
+53
+54</manifest>

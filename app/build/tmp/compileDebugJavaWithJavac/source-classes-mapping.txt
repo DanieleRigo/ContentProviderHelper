@@ -1,0 +1,73 @@
+com/jensdriller/contentproviderhelper/ui/dialog/ProgressDialogFragment.java
+ com.jensdriller.contentproviderhelper.ui.dialog.ProgressDialogFragment
+ com.jensdriller.contentproviderhelper.ui.dialog.ProgressDialogFragment$Listener
+ com.jensdriller.contentproviderhelper.ui.dialog.ProgressDialogFragment$SimpleListener
+com/jensdriller/contentproviderhelper/task/DialogAsyncTask.java
+ com.jensdriller.contentproviderhelper.task.DialogAsyncTask
+ com.jensdriller.contentproviderhelper.task.DialogAsyncTask$ExceptionListener
+com/jensdriller/contentproviderhelper/ui/activity/BaseActivity.java
+ com.jensdriller.contentproviderhelper.ui.activity.BaseActivity
+com/jensdriller/contentproviderhelper/task/LoadResultsTask.java
+ com.jensdriller.contentproviderhelper.task.LoadResultsTask
+ com.jensdriller.contentproviderhelper.task.LoadResultsTask$SQLParams
+com/jensdriller/contentproviderhelper/model/ColumnData.java
+ com.jensdriller.contentproviderhelper.model.ColumnData
+ com.jensdriller.contentproviderhelper.model.ColumnData$1
+com/jensdriller/contentproviderhelper/app/ContentProviderHelper.java
+ com.jensdriller.contentproviderhelper.app.ContentProviderHelper
+com/jensdriller/contentproviderhelper/model/ColumnList.java
+ com.jensdriller.contentproviderhelper.model.ColumnList
+ com.jensdriller.contentproviderhelper.model.ColumnList$1
+com/jensdriller/contentproviderhelper/ui/dialog/DeleteProviderDialog.java
+ com.jensdriller.contentproviderhelper.ui.dialog.DeleteProviderDialog
+ com.jensdriller.contentproviderhelper.ui.dialog.DeleteProviderDialog$1
+ com.jensdriller.contentproviderhelper.ui.dialog.DeleteProviderDialog$2
+ com.jensdriller.contentproviderhelper.ui.dialog.DeleteProviderDialog$Contract
+com/jensdriller/contentproviderhelper/ui/dialog/ContractDialogFragment.java
+ com.jensdriller.contentproviderhelper.ui.dialog.ContractDialogFragment
+com/jensdriller/contentproviderhelper/ui/activity/ResultActivity.java
+ com.jensdriller.contentproviderhelper.ui.activity.ResultActivity
+ com.jensdriller.contentproviderhelper.ui.activity.ResultActivity$1
+ com.jensdriller.contentproviderhelper.ui.activity.ResultActivity$2
+com/jensdriller/contentproviderhelper/ui/activity/ColumnsAdapter.java
+ com.jensdriller.contentproviderhelper.ui.activity.ColumnsAdapter
+ com.jensdriller.contentproviderhelper.ui.activity.ColumnsAdapter$1
+ com.jensdriller.contentproviderhelper.ui.activity.ColumnsAdapter$ViewHolder
+com/jensdriller/contentproviderhelper/BuildConfig.java
+ com.jensdriller.contentproviderhelper.BuildConfig
+com/jensdriller/contentproviderhelper/task/SearchProvidersTask.java
+ com.jensdriller.contentproviderhelper.task.SearchProvidersTask
+ com.jensdriller.contentproviderhelper.task.SearchProvidersTask$1
+com/jensdriller/contentproviderhelper/model/Column.java
+ com.jensdriller.contentproviderhelper.model.Column
+ com.jensdriller.contentproviderhelper.model.Column$1
+com/jensdriller/contentproviderhelper/ui/activity/MainActivity.java
+ com.jensdriller.contentproviderhelper.ui.activity.MainActivity
+ com.jensdriller.contentproviderhelper.ui.activity.MainActivity$1
+ com.jensdriller.contentproviderhelper.ui.activity.MainActivity$2
+ com.jensdriller.contentproviderhelper.ui.activity.MainActivity$2$1
+de/k3b/android/util/ErrorHandler.java
+ de.k3b.android.util.ErrorHandler
+com/jensdriller/contentproviderhelper/db/Database.java
+ com.jensdriller.contentproviderhelper.db.Database
+com/jensdriller/contentproviderhelper/task/LoadColumnsTask.java
+ com.jensdriller.contentproviderhelper.task.LoadColumnsTask
+com/jensdriller/contentproviderhelper/model/Result.java
+ com.jensdriller.contentproviderhelper.model.Result
+ com.jensdriller.contentproviderhelper.model.Result$1
+com/jensdriller/contentproviderhelper/ui/activity/PreferenceActivity.java
+ com.jensdriller.contentproviderhelper.ui.activity.PreferenceActivity
+com/jensdriller/contentproviderhelper/ui/dialog/AddProviderDialog.java
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog$1
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog$2
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog$3
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog$4
+ com.jensdriller.contentproviderhelper.ui.dialog.AddProviderDialog$Contract
+com/jensdriller/contentproviderhelper/ui/dialog/SearchProviderDialog.java
+ com.jensdriller.contentproviderhelper.ui.dialog.SearchProviderDialog
+ com.jensdriller.contentproviderhelper.ui.dialog.SearchProviderDialog$1
+com/jensdriller/contentproviderhelper/ui/dialog/QueryWithFilterDialog.java
+ com.jensdriller.contentproviderhelper.ui.dialog.QueryWithFilterDialog
+ com.jensdriller.contentproviderhelper.ui.dialog.QueryWithFilterDialog$1
+ com.jensdriller.contentproviderhelper.ui.dialog.QueryWithFilterDialog$2

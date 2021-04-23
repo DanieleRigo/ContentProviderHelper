@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daniele/git/ContentProviderHelper_mine/ContentProviderHelper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/daniele/.android/build-cache/caches/transforms-2/files-2.1/c5273a5d76debb902c765f251288e041/appcompat-v7-21.0.2/res/values-w480dp/values.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,118",
+                        "endColumns": "61,71",
+                        "endOffsets": "113,185"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,71",
+                        "endOffsets": "112,184"
+                    }
+                }
+            ]
+        }
+    ]
+}
